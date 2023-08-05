@@ -11,5 +11,3 @@ function formatMessage(username, text) {
 
 
 module.exports = formatMessage;
-
-console.log('Hello World')
